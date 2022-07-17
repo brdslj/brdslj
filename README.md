@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brdslj
-- 👀 I’m interested in science and exploration through experimentation and simulation
-- 🌱 I’m ~~currently~~ always learning new approaches and better practice from my mistakes and from community collaboration. Tinkering with microcontroller electronics for DIY scientific instruments.
-- 💞️ I’m looking to collaborate on projects for STEAM which aim to help keep the us all curious, explorative and in touch with our world.
+- 👀 I’m interested in science and exploration through experimentation, computation and simulation. Dedicated to STEM; trained chemist with passion for technology, programming and math - now in data and software for science. Keen on best practice surrounding technical/scientific progress - data, experiment, theory and instrumentation.
+- 🌱 I’m ~~currently~~ always learning new approaches, design and better practice from community and collaboration. Tinkering with microcontroller electronics for DIY/open instrumentation.
+- 💞️ I’m looking to collaborate on projects for STEM which aim to help keep the us all curious, explorative and in touch with our world.
 <!-- - 📫 How to reach me: --->
 
 <!---
